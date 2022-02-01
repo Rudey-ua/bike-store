@@ -1,0 +1,93 @@
+table td a {
+    text-decoration: none;
+    transition: 0.2s ease;
+    color: #3f75c5;
+}
+
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 18px;
+    border-collapse: collapse;
+    text-align: center;
+    }
+    th, td:first-child {
+    background: #555;
+    color: white;
+    padding: 10px 20px;
+    }
+    th, td {
+    border-style: solid;
+    border-width: 0 0.5px 0.5px 0;
+    border-color: white;
+    }
+    td {
+    background: #eee;
+    }
+    th:first-child, td:first-child {
+    text-align: left;
+}
+
+h3 a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    
+}
+
+h3 a:hover {
+    color: white;
+    opacity: 0.9;
+}
+
+h3.btn.btn-success {
+    width: 250px;
+}
+
+p {
+    font-size: 17px;
+    font-style: italic;
+    font-family: sans-serif;
+    
+}
+
+input {
+    height: 29px;
+    width: 250px;
+}
+
+option {
+    padding: 10px;
+}
+
+button {
+    margin-top: 10px;
+    font-size: 18px;
+    width: 258px;
+    height: 41px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color:#198754;
+    border-color: #198754;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    margin-top:5px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+
+input {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+select.select {
+    margin-bottom:15px;
+    margin-top:12px;
+    padding:5px;
+}
+    
+  

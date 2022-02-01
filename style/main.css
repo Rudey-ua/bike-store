@@ -1,0 +1,198 @@
+.col-sm {
+    height: 200px;
+    margin-top: 100px;
+}
+
+.title {
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+p.price {
+    font-size: 20px;
+}
+
+p.in_stock {
+    font-size: 13px;
+}
+
+.mb-5 {
+    margin-bottom: 8rem!important;
+}
+
+.row.description {
+    margin-top: 20px;
+}
+
+.col-md.buy {
+    margin-top: 280px;
+}
+
+.col-md.buy button {
+    margin-top: 20px;
+    background-color: #7ebe30;
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+    font: inherit;
+}
+
+.rating-mini {
+    display: inline-block;
+    font-size: 0;
+    margin-left: 10px;
+}
+
+.rating-mini span {
+    padding: 0;
+    font-size: 20px;
+    line-height: 1;
+    color: lightgrey;
+}
+
+.rating-mini>span:before {
+    content: '★';
+}
+
+.rating-mini>span.active {
+    color: gold;
+}
+
+div.comment_text {
+    margin-top: 10px;
+}
+
+div.review {
+    padding-top: 15px;
+    padding-bottom: 8px;
+    margin-bottom: 1.2rem;
+    background: #f2f2f2;
+}
+
+button.add_button { 
+    margin-top: 20px;
+    background-color: #7ebe30;
+    border: 0;
+    color: white;
+    text-transform: uppercase;
+    border-radius: 10px;
+    font: inherit;
+}
+
+select {
+    padding: 4px;
+    font-size: 18px;
+}
+
+div.rew {
+    margin-bottom: 100px;
+}
+
+
+
+p.logo {
+    font-size: 28px;
+    padding: 5px;
+    margin-left:24%;
+    
+}
+
+input.search_btn {
+    padding:5px;
+    padding-left:15px;
+    margin-top:10px;
+    border-radius: 3px;
+    width: 207px;
+    border-style: none;
+    height: 38px;
+    outline:none;
+}
+
+button.btn.btn-outline-success {
+    border-color: white;
+    color: white;
+    margin-bottom: 5px;
+}
+
+select.sort {
+    padding-top: 15px;
+}
+
+.buy_button:hover {
+    opacity: 0.9;
+}
+
+
+/* Фильтрация */
+
+.filtration {
+    height: 100%;
+}
+
+.filtration h3 {
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.body_filtr p.title {
+    font-size:18px;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-top:0;
+    margin-bottom: 5px;
+}
+
+.body_filtr:first-child {
+    padding:5px;
+    padding-bottom: 0;
+    border-top: 1px solid black;
+    width:260px;
+}
+
+.body_filtr {
+    border: 1px solid black; 
+    border-top: 0;
+    padding: 10px;
+    padding-bottom: 5px;
+    width:260px;
+}
+
+
+.body_filtr input {
+    margin-right: 5px;
+}
+
+.body_filtr input {
+    margin-top:5px;
+    margin-left: 15px;
+}
+
+button.filtration_btn {
+    width: 260px;
+    margin-top: 15px;
+    background-color: white;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.variations p {
+    margin-bottom: 10px;
+}
+
+.sort {
+    width: 189px;
+    font-size: 16px;
+}
+
+.btn-outline-success:hover {
+    background-color: #212529;
+    opacity: 0.7;
+}
+
+.btn-danger:hover {
+    opacity: 0.7;
+}
+
+
